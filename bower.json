@@ -1,12 +1,12 @@
 {
-  "name": "Pluralsight-Gulp",
+  "name": "gulp-boilerplate",
   "version": "0.1.0",
-  "description": "Starter Code for Pluralsight Course JavaScript Build Automation with Gulp.js",
+  "description": "Starter Code for JavaScript Build Automation with Gulp.js",
   "authors": [
     "John Papa"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/johnpapa/pluralsight-gulp",
+  "homepage": "https://github.com/hafeez-syed/Gulp-boilerplate",
   "ignore": [
     "**/.*",
     "node_modules",
