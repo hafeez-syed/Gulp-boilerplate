@@ -1,0 +1,54 @@
+{
+  "name": "gulp-boilerplate",
+  "version": "0.1.0",
+  "description": "Starter Code for Build Automation with Gulp.js",
+  "authors": [
+    "Hafeez Syed"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git"
+  },
+  "scripts": {
+    "init": "npm install",
+    "install": "bower install",
+    "start": "node src/server/cluster.js",
+    "test-binary": "0011-03130503900"
+  },
+  "dependencies": {
+    "body-parser": "^1.8.2",
+    "cluster": "^0.7.7",
+    "compression": "^1.1.0",
+    "cors": "^2.2.0",
+    "express": "^4.9.3",
+    "morgan": "^1.1.1",
+    "os": "^0.1.1",
+    "serve-favicon": "^2.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^2.0.0",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-if": "^2.0.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-inject": "^4.1.0",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-less": "^3.1.0",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-print": "^2.0.1",
+    "gulp-task-listing": "^1.0.1",
+    "gulp-useref": "^3.1.2",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.3",
+    "jshint-stylish": "^2.2.1",
+    "node-notifier": "^4.6.1",
+    "wiredep": "^4.0.0",
+    "yargs": "^5.0.0"
+  }
+}
